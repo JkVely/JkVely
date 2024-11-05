@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I’m Juan Carlos Quintero, a Systems Engineering student with a strong passion for software design, programming, and analytical problem-solving. My interests in video games, literature, and anime fuel my creativity and drive to develop thoughtful, well-structured software solutions. I am dedicated to merging technical precision with innovative design in every project.</p>
+<p align="left">I’m <strong>Juan Carlos Quintero</strong>, a Systems Engineering student with a strong passion for software design, programming, and analytical problem-solving. My interests in video games, literature, and anime fuel my creativity and drive to develop thoughtful, well-structured software solutions. I am dedicated to merging technical precision with innovative design in every project.</p>
 
 ###
 
