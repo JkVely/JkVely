@@ -1,4 +1,4 @@
-# 👾 Welcome to my profile
+# Welcome to my profile
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">About me 👽</h2>
+<h2 align="left">About me </h2>
 
 ###
 
@@ -33,7 +33,7 @@
 
 ###
 
-<h2 align="left">Tech Stack 🛠️</h2>
+<h2 align="left">Tech Stack </h2>
 
 ###
 
@@ -55,11 +55,7 @@
 
 ###
 
-<h2 align="left">Projects 🚀</h2>
-
-###
-
-<h2 align="left">GitHub Stats 📊</h2>
+<h2 align="left">GitHub Stats </h2>
 
 ###
 
