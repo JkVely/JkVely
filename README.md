@@ -1,6 +1,4 @@
-<br clear="both">
-
-<h1 align="center">👾 Welcome to my profile</h1>
+# 👾 Welcome to my profile
 
 ###
 
@@ -25,13 +23,17 @@
 
 ###
 
-<p align="left">I’m <strong>Juan Carlos Quintero</strong>, a Systems Engineering student with a strong passion for software design, programming, and analytical problem-solving. My interests in video games, literature, and anime fuel my creativity and drive to develop thoughtful, well-structured software solutions. I am dedicated to merging technical precision with innovative design in every project.</p>
+<p align="left">I’m <strong>Juan Carlos Quintero</strong>, a Systems Engineering student with a strong passion for software design, programming, and analytical problem-solving. My interests in video games, literature, and anime fuel my creativity and drive to develop thoughtful, well-structured software solutions. I am dedicated to merging technical precision with innovative design in every project. Additionally, I have a solid proficiency in Git for version control and LaTeX for technical documentation.</p>
 
 ###
 
 <br clear="both">
 
 <img align="right" height="172" src="https://i.imgur.com/O1PZTL7.gif"  />
+
+###
+
+<h2 align="left">Tech Stack 🛠️</h2>
 
 ###
 
@@ -45,6 +47,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=LaTeX&logoColor=white" height="30" alt="latex logo"  />
+</div>
+
+###
+
+<h2 align="left">Projects 🚀</h2>
+
+###
+
+<h2 align="left">GitHub Stats 📊</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JkVely&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JkVely&theme=synthwave&hide_border=false" height="150" alt="streak graph"  />
 </div>
 
 ###
