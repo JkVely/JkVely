@@ -48,7 +48,7 @@ philosophy: "Precision in every commit."
 <a href="mailto:jkquinteror@gmail.com">
   <img src="https://img.shields.io/badge/jkquinteror@gmail.com-1a1b27?style=for-the-badge&logo=gmail&logoColor=7aa2f7"/>
 </a>
-<a href="https://linkedin.com/in/">
+<a href="https://linkedin.com/in/jkvely">
   <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7"/>
 </a>
 <a href="https://github.com/JkVely">
