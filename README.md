@@ -24,8 +24,7 @@
 name: Juan Carlos Quintero Rubiano
 alias: JkVely
 university: Universidad Distrital Francisco José de Caldas
-code: 20232020172
-email: jcquinteror@udistrital.edu.co
+email: jkquinteror@gmail.com
 location: Bogotá, Colombia
 role: Systems Engineering Student
 position: Vicedirector GLUD
@@ -121,7 +120,7 @@ mindset: Domain-Driven Design estricto, código limpio, DevOps first
 
 <div align="center">
 
-<a href="mailto:jcquinteror@udistrital.edu.co"><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=DC143C"/></a>
+<a href="mailto:jkquinteror@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=DC143C"/></a>
 <a href="https://linkedin.com/in/jkvely"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=DC143C"/></a>
 <a href="https://github.com/JkVely"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=DC143C"/></a>
 <a href="https://orcid.org/0009-0000-7465-2560"><img src="https://img.shields.io/badge/ORCID-0a0a0a?style=for-the-badge&logo=orcid&logoColor=DC143C"/></a>
