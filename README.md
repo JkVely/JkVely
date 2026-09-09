@@ -1,159 +1,133 @@
 <div align="center">
 
-<img width="100%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="cyberpunk banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:dc143c&height=180&section=header&text=JkVely&fontSize=60&fontColor=dc143c&desc=Juan%20Carlos%20Quintero&descSize=18&descAlignY=70" alt="capsule banner"/>
 
-# ⚡ Juan Carlos Quintero // `JkVely`
-### `Git-First Mindset | Future DevOps & GitOps Engineer`
+# Juan Carlos Quintero Rubiano
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=2000&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=520&height=45&lines=Saving+seconds+by+wasting+hours." alt="Typing SVG" />
+### JkVely
 
-<br/>
+*Systems Engineering Student — Universidad Distrital Francisco José de Caldas*
+*Vicedirector Grupo GNU/Linux Universidad Distrital — GLUD*
 
-<img src="https://img.shields.io/github/followers/JkVely?style=for-the-badge&color=1a1b27&labelColor=1a1b27&logo=github&logoColor=7aa2f7&label=Followers" alt="followers"/>
-<img src="https://img.shields.io/github/stars/JkVely?style=for-the-badge&color=1a1b27&labelColor=1a1b27&logo=github&logoColor=bb9af7&label=Total%20Stars" alt="stars"/>
-<img src="https://komarev.com/ghpvc/?username=JkVely&style=for-the-badge&color=1a1b27&label=Profile+Views" alt="profile views"/>
+<img src="https://img.shields.io/badge/Bogotá-Colombia-0a0a0a?style=for-the-badge&logoColor=DC143C" alt="location"/>
+<img src="https://img.shields.io/github/followers/JkVely?style=for-the-badge&color=0a0a0a&labelColor=0a0a0a&logo=github&logoColor=DC143C&label=Followers" alt="followers"/>
+<img src="https://img.shields.io/github/stars/JkVely?style=for-the-badge&color=0a0a0a&labelColor=0a0a0a&logo=github&logoColor=DC143C&label=Stars" alt="stars"/>
+<img src="https://komarev.com/ghpvc/?username=JkVely&style=for-the-badge&color=0a0a0a&label=Profile%20Views" alt="views"/>
 
 </div>
 
 ---
 
-### `> whoami`
-
-<img align="right" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+### whoami
 
 ```yaml
-name: Juan Carlos Quintero
+name: Juan Carlos Quintero Rubiano
 alias: JkVely
+university: Universidad Distrital Francisco José de Caldas
+code: 20232020172
+email: jcquinteror@udistrital.edu.co
+location: Bogotá, Colombia
 role: Systems Engineering Student
-focus:
-  - Git workflows and repository strategy
-  - CI/CD automation
-  - DevOps and GitOps practices
-location: Colombia
-
-currently_learning:
-  - Docker and container-first development
-  - GitHub Actions for robust pipelines
-  - Infrastructure and delivery automation
-
-mindset: "Precision in every commit. Reliability in every deploy."
+position: Vicedirector GLUD
+research: Green IT, optimización energética de LLMs en Kubernetes
+mindset: Domain-Driven Design estricto, código limpio, DevOps first
 ```
 
-<br clear="right"/>
+**Me interesa**
+
+- Ansible · Kubernetes · Linux
+- Orquestación y automatización de infraestructura
+- Observabilidad y ciclo de vida de aplicaciones en la nube
+
+**Foco**
+
+- Arquitectura backend, microservicios y DDD
+- DevOps, GitOps, CI/CD y observabilidad
+- Green IT y eficiencia energética en Kubernetes
+- Automatización con IA como acelerador de código
 
 ---
 
-### `> git --philosophy`
+### tech stack
 
 <div align="center">
 
-```text
-commit small
-test early
-automate everything
-deploy safely
-improve continuously
-```
+**Backend**
+![Java](https://img.shields.io/badge/Java-0a0a0a?style=flat-square&logo=openjdk&logoColor=DC143C)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0a0a0a?style=flat-square&logo=spring-boot&logoColor=DC143C)
+![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-0a0a0a?style=flat-square&logo=spring&logoColor=DC143C)
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=DC143C)
+![Maven](https://img.shields.io/badge/Maven-0a0a0a?style=flat-square&logo=apache-maven&logoColor=DC143C)
 
-</div>
+**DevOps & Infra**
+![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=DC143C)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0a0a0a?style=flat-square&logo=kubernetes&logoColor=DC143C)
+![Ansible](https://img.shields.io/badge/Ansible-0a0a0a?style=flat-square&logo=ansible&logoColor=DC143C)
+![Jenkins](https://img.shields.io/badge/Jenkins-0a0a0a?style=flat-square&logo=jenkins&logoColor=DC143C)
+![SonarQube](https://img.shields.io/badge/SonarQube-0a0a0a?style=flat-square&logo=sonarqube&logoColor=DC143C)
+![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=flat-square&logo=linux&logoColor=DC143C)
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=DC143C)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0a0a0a?style=flat-square&logo=github-actions&logoColor=DC143C)
 
-<div align="center">
+**Frontend & Mobile**
+![Astro](https://img.shields.io/badge/Astro-0a0a0a?style=flat-square&logo=astro&logoColor=DC143C)
+![React](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=DC143C)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-0a0a0a?style=flat-square&logo=tailwind-css&logoColor=DC143C)
+![Flutter](https://img.shields.io/badge/Flutter-0a0a0a?style=flat-square&logo=flutter&logoColor=DC143C)
+![Ionic](https://img.shields.io/badge/Ionic-0a0a0a?style=flat-square&logo=ionic&logoColor=DC143C)
 
-`neon commits` • `clean history` • `pipeline discipline` • `ship with confidence`
-
-</div>
-
----
-
-### `> contact`
-
-<div align="center">
-
-<a href="mailto:jkquinteror@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=7aa2f7"/>
-</a>
-<a href="https://linkedin.com/in/jkvely">
-  <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7"/>
-</a>
-<a href="https://github.com/JkVely">
-  <img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7"/>
-</a>
-
-</div>
-
----
-
-### `> cat tech_stack.json`
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-**`// Languages`**
-
-![Java](https://img.shields.io/badge/Java-1a1b27?style=flat-square&logo=openjdk&logoColor=7aa2f7)
-![Python](https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=7aa2f7)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1b27?style=flat-square&logo=javascript&logoColor=7aa2f7)
-![HTML5](https://img.shields.io/badge/HTML5-1a1b27?style=flat-square&logo=html5&logoColor=7aa2f7)
-![CSS3](https://img.shields.io/badge/CSS3-1a1b27?style=flat-square&logo=css3&logoColor=7aa2f7)
-
-</td>
-<td align="center" width="50%">
-
-**`// Git, DevOps & GitOps`**
-
-![Git](https://img.shields.io/badge/Git-1a1b27?style=flat-square&logo=git&logoColor=bb9af7)
-![GitHub](https://img.shields.io/badge/GitHub-1a1b27?style=flat-square&logo=github&logoColor=bb9af7)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1a1b27?style=flat-square&logo=github-actions&logoColor=bb9af7)
-![Maven](https://img.shields.io/badge/Maven-1a1b27?style=flat-square&logo=apache-maven&logoColor=bb9af7)
-![Docker](https://img.shields.io/badge/Docker-1a1b27?style=flat-square&logo=docker&logoColor=bb9af7)
-![Linux](https://img.shields.io/badge/Linux-1a1b27?style=flat-square&logo=linux&logoColor=bb9af7)
-
-</td>
-</tr>
-</table>
+**TUI & Workflow**
+![Neovim](https://img.shields.io/badge/Neovim-0a0a0a?style=flat-square&logo=neovim&logoColor=DC143C)
+![Zsh](https://img.shields.io/badge/Zsh-0a0a0a?style=flat-square&logo=zsh&logoColor=DC143C)
+![Hyprland](https://img.shields.io/badge/Hyprland-0a0a0a?style=flat-square&logo=hyprland&logoColor=DC143C)
 
 </div>
 
 ---
 
-### `> git status --profile`
+### featured repos
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JkVely&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&icon_color=7aa2f7&text_color=c0caf5&ring_color=bb9af7" height="165" alt="stats"/>
-<img src="https://streak-stats.demolab.com?user=JkVely&theme=tokyonight&hide_border=true&background=1a1b27&ring=bb9af7&fire=7aa2f7&currStreakLabel=c0caf5&sideLabels=c0caf5&dates=565f89" height="165" alt="streak"/>
+| Repo | Descripción | Stars |
+| ------ | ------------- | ------- |
+| [glud-credentials-api](https://github.com/Hexoneira/glud-credentials-api) | Motor central de identidades y credenciales dinámicas del GLUD | ![stars](https://img.shields.io/github/stars/Hexoneira/glud-credentials-api?style=flat-square&color=0a0a0a&logoColor=DC143C) |
+| [glud-credentials-frontend](https://github.com/Hexoneira/glud-credentials-frontend) | Interfaz administrativa y de usuario del sistema de credenciales | ![stars](https://img.shields.io/github/stars/Hexoneira/glud-credentials-frontend?style=flat-square&color=0a0a0a&logoColor=DC143C) |
+| [LUCID](https://github.com/JkVely/LUCID) | Framework de gamificación matemática con IA generativa | ![stars](https://img.shields.io/github/stars/JkVely/LUCID?style=flat-square&color=0a0a0a&logoColor=DC143C) |
+| [SIR-Model](https://github.com/JkVely/SIR-Model) | Simulación del modelo epidemiológico SIR en Java y JavaFX | ![stars](https://img.shields.io/github/stars/JkVely/SIR-Model?style=flat-square&color=0a0a0a&logoColor=DC143C) |
+| [git_course](https://github.com/JkVely/git_course) | Material de estudio del curso Git 101 impartido en GLUD | ![stars](https://img.shields.io/github/stars/JkVely/git_course?style=flat-square&color=0a0a0a&logoColor=DC143C) |
 
 </div>
+
+---
+
+### stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JkVely&theme=dark" alt="profile details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JkVely&theme=dark" alt="most commit language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JkVely&theme=dark" alt="repos per language"/>
 
 <br/>
 
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JkVely&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&text_color=c0caf5" alt="top languages"/>
+<img src="https://streak-stats.demolab.com?user=JkVely&theme=dark&hide_border=true&background=0a0a0a&ring=DC143C&fire=DC143C&currStreakLabel=c0c0c0&sideLabels=c0c0c0" height="165" alt="streak"/>
 
 </div>
 
 ---
 
-### `> git graph --contributions`
+### contact
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JkVely&bg_color=1a1b27&color=c0caf5&line=7aa2f7&point=bb9af7&area=true&area_color=7aa2f7&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="activity graph"/>
+<a href="mailto:jcquinteror@udistrital.edu.co"><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=DC143C"/></a>
+<a href="https://linkedin.com/in/jkvely"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=DC143C"/></a>
+<a href="https://github.com/JkVely"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=DC143C"/></a>
+<a href="https://orcid.org/0009-0000-7465-2560"><img src="https://img.shields.io/badge/ORCID-0a0a0a?style=for-the-badge&logo=orcid&logoColor=DC143C"/></a>
 
 </div>
 
----
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=700&lines=Continuously+delivering+solutions;for+non-problems." alt="Typing SVG" />
-</div>
-
-<div align="center">
-
-`// Entering GitOps mode...`
-
+<code>// Entering GitOps mode...</code>
 </div>
